@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "990813813915",
+    "firebase_url": "https://appprueba-264a2.firebaseio.com",
+    "project_id": "appprueba-264a2",
+    "storage_bucket": "appprueba-264a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990813813915:android:8933f144d984b67cf91a3e",
+        "android_client_info": {
+          "package_name": "com.example.imagenes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990813813915-5bn5ml0heh0h3a3t8m5ih667ckha4eoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGcTxeaBGPMM-ABu4qWAeB5OOWb9fjNqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990813813915-frgbb91kt5rqepv8i3vu8m3h2v7f09sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990813813915:android:c7a628680eac4b86f91a3e",
+        "android_client_info": {
+          "package_name": "com.instaflutter.onboarding.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990813813915-5bn5ml0heh0h3a3t8m5ih667ckha4eoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGcTxeaBGPMM-ABu4qWAeB5OOWb9fjNqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990813813915-frgbb91kt5rqepv8i3vu8m3h2v7f09sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990813813915:android:46571a2eb6c1088cf91a3e",
+        "android_client_info": {
+          "package_name": "com.pucese.pucesegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990813813915-fq1givq7jbh6p5q5p1j1cdt7btcdcb8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pucese.pucesegram",
+            "certificate_hash": "7b404fba578db174a52b05d7a644ed8db88a4e78"
+          }
+        },
+        {
+          "client_id": "990813813915-5bn5ml0heh0h3a3t8m5ih667ckha4eoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGcTxeaBGPMM-ABu4qWAeB5OOWb9fjNqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990813813915-frgbb91kt5rqepv8i3vu8m3h2v7f09sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
